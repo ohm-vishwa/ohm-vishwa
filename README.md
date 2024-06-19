@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning MERN Stack
 
-![ohm_vishwa`s GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gradient)
+<p align="center"> ![ohm_vishwa`s GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gradient)
 
 ### My First Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)
@@ -16,7 +16,7 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 ### Etchical Hacking Cheat Sheet
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut)
+<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut)
 
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -35,7 +35,7 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> 
 
 ### My Contribution in My Repo
-<p align="center"> <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake-dark.svg">

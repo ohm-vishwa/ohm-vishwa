@@ -8,9 +8,9 @@
 
 https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7cf-52700d2f0444
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet.git)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet.git) -->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking) --.
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut" alt="ohm-vishwa" /> -->
 [![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)

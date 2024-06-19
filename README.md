@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on React.js
 - 🌱 I’m currently learning MERN Stack
 
-<p align="center"> ![ohm_vishwa`s GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gradient)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gotham" alt="ohm-vishwa" />
 
 ### My First Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)

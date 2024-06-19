@@ -18,8 +18,8 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&size_weight=0.5&count_weight=0.5)](https://github.com/ohm-vishwa/Cpp_Project)
 
-![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
 <!-- ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-c++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 <img src="https://img.shields.io/github/followers/ohm-vishwa?label=Follow&style=plastic">

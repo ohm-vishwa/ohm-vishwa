@@ -5,8 +5,6 @@
 
 ![ohm_vishwa`s GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gradient)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut)
-
 ### My First Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)
 
@@ -17,6 +15,8 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 
 ### Etchical Hacking Cheat Sheet
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut)
 
 ### My Contribution in My Repo
 <picture>

@@ -8,7 +8,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut)
 
 ### My First Project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Cpp_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)
 
 https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7cf-52700d2f0444
 
@@ -16,7 +16,7 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet.git)
 
 ### Etchical Hacking Cheat Shhet
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Ethical_Hacking)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking)
 
 ### My Contribution in My Repo
 <picture>

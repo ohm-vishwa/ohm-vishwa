@@ -5,10 +5,9 @@
 
 ![ohm_vishwa`s GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gradient)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet.git)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet.git)
 
 #### My Contribution
 

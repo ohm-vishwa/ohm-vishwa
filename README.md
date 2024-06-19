@@ -15,7 +15,7 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 ### MERN - Stack Cheat Sheet
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Web-Dev-Cheat-Sheet)](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet.git)
 
-### Etchical Hacking Cheat Shhet
+### Etchical Hacking Cheat Sheet
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking)
 
 ### My Contribution in My Repo

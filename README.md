@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on React.js
-- 🌱 I’m currently learning MERN Stack
+- 🔭 I’m currently working on MERN-Stack Development
+- 🌱 I’m currently learning Backend Develeopment
+- 📝 I Love Markdown Writing
   
 [![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)
 

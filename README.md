@@ -25,25 +25,24 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 <img src="https://img.shields.io/github/stars/ohm-vishwa?label=Stars&style=plastic">
 ### Languages and Tools:
 
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" width="30px" src="https://i.ibb.co/vHWFXq4/Github.jpg" />
-<img align="left" width="30px" src="https://i.ibb.co/XzvJkqN/android.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" width="30px" src="https://i.ibb.co/8Br7FFs/Csharp.jpg" />
-<img align="left" width="30px" src="https://i.ibb.co/J3K7fS8/java.png" />
-<img align="left" width="30px" src="https://i.ibb.co/MG91rkG/python.png" />
-<!-- <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
-<img align="left" width="30px" src="https://i.ibb.co/kS0XDRN/kotlin.png" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" width="35px" src="https://i.ibb.co/vHWFXq4/Github.jpg" />
+<img align="left" width="35px" src="https://i.ibb.co/XzvJkqN/android.png" />
+<img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" width="35px" src="https://i.ibb.co/8Br7FFs/Csharp.jpg" />
+<img align="left" width="35px" src="https://i.ibb.co/J3K7fS8/java.png" />
+<img align="left" width="35px" src="https://i.ibb.co/MG91rkG/python.png" />
+<!-- <img align="left" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
+<img align="left" width="35px" src="https://i.ibb.co/kS0XDRN/kotlin.png" />
 
-<img align="left" width="30px" src="https://i.ibb.co/dbvnwGs/html.webp" />
-<img align="left" width="30px" src="https://i.ibb.co/CV27wtW/Css.webp" />
-<img align="left" width="30px" src="https://i.ibb.co/pzdqTWd/js.jpg" />
-<img align="left" width="30px" src="https://i.ibb.co/RydZprf/React.png" />
-<img align="left" width="30px" src="https://i.ibb.co/YbJ2sVY/tailwind.jpg" />
-<img align="left" width="30px" src="https://i.ibb.co/stWXCgM/bootstrap.png" />
-<img align="left" width="30px" src="https://i.ibb.co/gtJYzJp/markdown.png" />
+<img align="left" width="35px" src="https://i.ibb.co/dbvnwGs/html.webp" />
+<img align="left" width="35px" src="https://i.ibb.co/CV27wtW/Css.webp" />
+<img align="left" width="35px" src="https://i.ibb.co/pzdqTWd/js.jpg" />
+<img align="left" width="35px" src="https://i.ibb.co/RydZprf/React.png" />
+<img align="left" width="35px" src="https://i.ibb.co/YbJ2sVY/tailwind.jpg" />
+<img align="left" width="35px" src="https://i.ibb.co/stWXCgM/bootstrap.png" />
+<img align="left" width="35px" src="https://i.ibb.co/gtJYzJp/markdown.png" />
 
 <img align='left'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/>
 

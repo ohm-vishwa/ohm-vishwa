@@ -1,10 +1,15 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on MERN-Stack Development
-- 🌱 I’m currently learning Backend Develeopment
+- 🌱 I’m currently learning Backend 
 - 📝 I Love Markdown Writing
   
-[![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)
+### View My Markdown Notes
+- 🧑‍💻 [MERN Stack Cheat Sheet](https://github.com/ohm-vishwa/MERN-Cheat-Sheet)
+- 👹 [Ethical Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
+- 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands)
+- 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
+
 
 ### My First Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)
@@ -16,6 +21,8 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Ethical_Hacking)](https://github.com/ohm-vishwa/Ethical_Hacking) --.
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut" alt="ohm-vishwa" /> -->
+
+[![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&size_weight=0.5&count_weight=0.5)](https://github.com/ohm-vishwa/Cpp_Project)
 

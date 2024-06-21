@@ -6,9 +6,10 @@
   
 ### View My Markdown Notes
 - 🧑‍💻 [MERN Stack Cheat Sheet](https://github.com/ohm-vishwa/MERN-Cheat-Sheet)
+- 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
 - 👹 [Ethical Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 - 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands)
-- 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
+- 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands)
 
 
 ### My First Project

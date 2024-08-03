@@ -10,8 +10,10 @@
 - 🧑‍💻 [MERN Stack Cheat Sheet](https://github.com/ohm-vishwa/MERN-Cheat-Sheet)
 - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands)
 - 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
-- 🧑‍💻 [DSA C++](https://github.com/ohm-vishwa/DSA-Cpp)
+- 🧑‍💻 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)
 
+### DSA C++
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=DSA-Cpp)](https://github.com/ohm-vishwa/DSA-Cpp)
 
 ### My First Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)

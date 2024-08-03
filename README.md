@@ -13,6 +13,9 @@
 - 🧑‍💻 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)
 
 
+### DSA C++
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=DSA-Cpp)](https://github.com/ohm-vishwa/DSA-Cpp)
+  
 ### My First Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=Cpp_Project)](https://github.com/ohm-vishwa/Cpp_Project)
 

@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on MERN-Stack Development
+- 🔭 I’m currently working on Spring Boot
 - 🌱 I’m currently learning Backend 
 - 📝 I Love Markdown Writing
-  
-### View My Markdown Notes
-- 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
-- 🐧 [Linux Commands](https://github.com/ohm-vishwa/Linux-Comands)
-- 📃  [MERN Stack Cheat Sheet](https://github.com/ohm-vishwa/MERN-Cheat-Sheet) <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
-- 🐱  [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
-- 📃  [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)
+
+## View My Markdown Notes
+#### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands)
+#### ==}> 🐱  [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
+#### ==}> 📃  [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)
+#### ==}> 📃  [Web Development Cheat Sheet](https://github.com/ohm-vishwa/MERN-Cheat-Sheet) <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
+#### ==}> 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
 
 ### DSA C++

@@ -6,11 +6,12 @@
 
 ## View My Markdown Notes
 #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands)
-#### ==}> 🐱  [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
-#### ==}> 📃  [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)
-#### ==}> 📃  [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development) <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
+#### ==}> 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
+#### ==}> 📃 [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development-Cheat-Sheet) 
 #### ==}> 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
+<!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
+<!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
 
 ### DSA C++
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ohm-vishwa&repo=DSA-Cpp)](https://github.com/ohm-vishwa/DSA-Cpp)

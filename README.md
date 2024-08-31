@@ -8,7 +8,7 @@
 #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands)
 #### ==}> 🐱  [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
 #### ==}> 📃  [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)
-#### ==}> 📃  [Web Development Cheat Sheet](https://github.com/ohm-vishwa/MERN-Cheat-Sheet) <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
+#### ==}> 📃  [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development) <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
 #### ==}> 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
 

@@ -5,7 +5,7 @@
 - 📝 I Love Markdown Writing
 
 ## View My Markdown Notes
-#### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands)
+<!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 #### ==}> 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
 #### ==}> 📃 [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development-Cheat-Sheet) 
 #### ==}> 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)

@@ -74,7 +74,7 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gotham" alt="ohm-vishwa" /> -->
 
-### Snake Animation
+### My Github Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake-dark.svg">

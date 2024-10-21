@@ -27,7 +27,7 @@ https://github.com/ohm-vishwa/Cpp_Project/assets/113088687/3bbc5828-b6d5-410a-b7
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut" alt="ohm-vishwa" /> -->
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)-->
 ![](https://leetcard.jacoblin.cool/ohm_kumar?border=2&radius=5) 
 
 [![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)

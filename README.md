@@ -12,7 +12,7 @@
 
 </br>
    
-#### 🔰 [New React-Native Project (Social-meida-app)]()
+#### 🔰 [New React-Native Project (Social-meida-app)](https://github.com/ohm-vishwa/react-native-social-media-app?tab=readme-ov-file#welcome-to-my-social-media-app-)
 #### 🔰 [C++ Project](https://github.com/ohm-vishwa/Cpp_Project)
 
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->

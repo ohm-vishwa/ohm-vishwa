@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on Spring Framework
-- 🌱 I’m currently learning Backend 
+- 🌱 I’m currently learning React Native (Android Development)
 - 📝 I Love Markdown Writing
 
 ## View My Markdown Notes

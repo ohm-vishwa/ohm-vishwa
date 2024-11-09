@@ -10,8 +10,6 @@
 #### 📃 [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development-Cheat-Sheet) 
 #### 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
-</br>
-
 ## Projects
 
 #### 🔰 [New React-Native Project (Social-meida-app)](https://github.com/ohm-vishwa/react-native-social-media-app?tab=readme-ov-file#welcome-to-my-social-media-app-)

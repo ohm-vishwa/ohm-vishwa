@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 🌱 I’m currently learning React Native (Android Development)
-- 📝 I Love Markdown Writing
-
+- 🌱 I’m currently learning Java Backend (Spring Boot)
+  
 ## View My Markdown Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 #### 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)

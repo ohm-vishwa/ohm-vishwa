@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🌱 I’m currently learning Java Backend (Spring Boot)
+- 🌱 I’m currently learning Bug Hunting
   
 ## View My Markdown Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
@@ -7,10 +7,10 @@
 #### 📃 [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development-Cheat-Sheet) 
 #### 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
-## Projects
+## Arch linux + hyprland
+https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a
 
-#### 🔰 [New React-Native Project (Social-meida-app)](https://github.com/ohm-vishwa/react-native-social-media-app?tab=readme-ov-file#welcome-to-my-social-media-app-)
-#### 🔰 [C++ Project](https://github.com/ohm-vishwa/Cpp_Project)
+
 
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
 <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->

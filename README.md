@@ -7,7 +7,7 @@
 #### 📃 [Web Development Cheat Sheet](https://github.com/ohm-vishwa/Web-Development-Cheat-Sheet) 
 #### 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
-## Arch linux + hyprland
+## currently using ==}> Arch linux + hyprland
 https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a
 
 

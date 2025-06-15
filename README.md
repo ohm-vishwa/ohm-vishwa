@@ -9,7 +9,7 @@
 #### 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 
 ## currently using ==}> Arch linux + hyprland
-https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc
+<!--https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc -->
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
@@ -38,6 +38,7 @@ https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&size_weight=0.5&count_weight=0.5)](https://github.com/ohm-vishwa/Cpp_Project)
 
 <!-- ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
+<!--
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-c++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/IDE-VSCODE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)\
@@ -68,8 +69,7 @@ https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc
 <img align="left" width="30px" src="https://i.ibb.co/YbJ2sVY/tailwind.jpg" />
 <img align="left" width="30px" src="https://i.ibb.co/stWXCgM/bootstrap.png" />
 <img align="left" width="30px" src="https://i.ibb.co/gtJYzJp/markdown.png" />
-</br></br>
-<!-- <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
+</br></br> <img align="left" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" /> -->
 
 <!-- <img align='left'  height="70" alt="Thanks" width="100%" src="https://github.com/AkashSingh3031/AkashSingh3031/blob/main/marquee.svg"/> -->
 
@@ -78,7 +78,6 @@ https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gotham" alt="ohm-vishwa" /> -->
 
 ### My Github Contribution
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake.svg">

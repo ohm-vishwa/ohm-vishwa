@@ -4,7 +4,7 @@
   
 ## View My Markdown Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
-#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) 
+<!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 #### 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
 #### 👹 [Wifi Hacking Cheat Sheet](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 

@@ -1,8 +1,15 @@
 
-# Hey, i'm ohm
 <img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat">
+
+# Hey, i'm ohm
+
+👨‍💻 React Native Android Apps Developer
+
+🛡️ Ethical Hacker & Security Enthusiast
+
+🐧 BlackArch Linux User & Linux System Developer
   
-## View My Markdown Notes
+ ## Cheat Sheet
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 #### 🐱 [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
@@ -31,7 +38,7 @@
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)-->
 <!-- ![](https://leetcard.jacoblin.cool/ohm_kumar?border=2&radius=5) -->
 
-[![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)
+<!-- [![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&size_weight=0.5&count_weight=0.5)](https://github.com/ohm-vishwa/Cpp_Project)
 
@@ -75,7 +82,7 @@
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=gotham" alt="ohm-vishwa" /> -->
 
-### My Github Contribution
+<!-- ### My Github Contribution -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake.svg">

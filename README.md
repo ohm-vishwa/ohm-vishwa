@@ -3,9 +3,9 @@
 
 # Hey, i'm ohm
 
-👨‍💻 React Native Android Apps Developer
-🐧 Arch Linux User & Linux System Developer
-🛡️ Security Researcher & Security Enthusiast
+👨‍💻 React Native Android Apps Developer \
+🐧 Arch Linux User & Linux System Developer \
+🛡️ Security Researcher & Security Enthusiast 
 
  ## My Projetcs
 #### 【﻿⏻】 [Real Chat `inspired by Whatsapp`]()

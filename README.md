@@ -14,7 +14,7 @@
 #### ▄︻デ══━一💥 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
 #### ▄︻デ══━一💥 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
   
- ## Cheat Sheets
+ ## My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 ####  ⭑✮💻 [Web Developemnt](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet)

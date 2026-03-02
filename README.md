@@ -8,7 +8,7 @@
 🛡️ Security Researcher & Security Enthusiast 
 
  ## My Projetcs
-#### 【﻿⏻】 [Real Chat `inspired by Whatsapp`]()
+#### 【﻿⏻】 [Real Chat App `inspired by Whatsapp`]()
 #### 【﻿⏻】 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
 #### 【﻿⏻】 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
   

@@ -5,7 +5,7 @@
 
 👨‍💻 React Native Android Apps Developer \
 🐧 Arch Linux User & Linux System Developer \
-🛡️ Security Researcher & Security Enthusiast 
+🛡️ Bug Bounty Hunter & Security Enthusiast 
 
  ## My Projetcs
 #### 【﻿⏻】 [Real Chat App `inspired by Whatsapp`]()

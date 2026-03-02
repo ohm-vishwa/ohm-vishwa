@@ -14,7 +14,7 @@
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 ####  ⭑✮💻₊ [Web Developemnt](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet)
 #### ₍^. .^₎⟆  [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
-#### (﹙˓ᯤ˒﹚)  [Wifi Password Cracking](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
+#### (﹙˓ᯤ˒﹚)  [Wifi Password Cracking](https://github.com/ohm-vishwa/Wifi-Password-Cracking)
 <!--https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc -->
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->

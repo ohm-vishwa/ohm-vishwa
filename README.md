@@ -8,9 +8,9 @@
 🛡️ Bug Bounty Hunter & Security Enthusiast 
 
  ## My Projetcs
-#### 【﻿⏻】 [Real Chat App `inspired by Whatsapp`]()
-#### 【﻿⏻】 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
-#### 【﻿⏻】 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
+#### 🌱 [Real Chat App `inspired by Whatsapp`]()
+#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
+#### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
   
  ## My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->

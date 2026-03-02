@@ -5,9 +5,9 @@
 
 👨‍💻 React Native Android Apps Developer
 
-🛡️ Ethical Hacker & Security Enthusiast
+🐧 Arch Linux User & Linux System Developer
 
-🐧 BlackArch Linux User & Linux System Developer
+🛡️ Security Researcher & Security Enthusiast
   
  ## Cheat Sheet
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->

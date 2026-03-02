@@ -9,9 +9,10 @@
 
 🛡️ Security Researcher & Security Enthusiast
   
- ## Cheat Sheet
+ ## Cheat Sheets
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
+####  ⭑✮💻₊ [Web Developemnt](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet)
 #### ₍^. .^₎⟆  [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
 #### (﹙˓ᯤ˒﹚)  [Wifi Password Cracking](https://github.com/ohm-vishwa/Ethical-Hacking-Cheat-Sheet)
 <!--https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc -->

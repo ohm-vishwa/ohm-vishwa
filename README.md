@@ -6,7 +6,7 @@
 👨‍💻 React Native Android Apps Developer \
 🐧 Arch Linux User & Linux System Developer \
 🛡️ Bug Bounty Hunter & Security Enthusiast \
-😇 My long term goal to be a **`teacher`** or **`mentor`**
+😇 My long term goal to be a CS **`teacher`** or **`mentor`**
  ## My Projetcs
 #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app)
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)

@@ -26,6 +26,7 @@
 
 # Computer Science Resources 
 **`Request for access and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
+<img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">
 
 ### Google Sheets
 #### ᯓ➤ [DSA for Placament](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
@@ -35,7 +36,6 @@
 #### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)
 #### ᯓ➤ [Web Development](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
 
-<img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
 <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
 

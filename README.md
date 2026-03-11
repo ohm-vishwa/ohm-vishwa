@@ -35,7 +35,7 @@
 #### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)
 #### ᯓ➤ [Web Development](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
 
-<img src="Screenshot_11-Mar_11-54-57_31064.png" width="40% /">
+<img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
 <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
 

@@ -24,7 +24,12 @@
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
-# Free Computer Science Resources 
+# Computer Science Resources 
+> [!Tip]
+> All resources shared by me are 100% free for your personal use.
+> If you need any guidance or technical support in computer science, feel free to reach out.
+> Connect with me on Instagram for direct help. 
+
 **`Request for access and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 
 <img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">

@@ -24,7 +24,7 @@
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
-# Computer Science Resources 
+# Computer Science Resources `free`
 **`Request for access and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 
 <img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">

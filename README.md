@@ -25,10 +25,12 @@
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
 ## Computer Science Resources 
-**`DM me on instagram to get access of my google Sheets`** ==}> [ohm_vishwa](https://instagram.com/ohm_vishwa)
-
+**`Request for access and DM me on instagram`** ==}> [ohm_vishwa](https://instagram.com/ohm_vishwa)
+### Premium Video Cources
+#### ᯓ➤ [DSA for Placament](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
+#### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
+#### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
 #### ᯓ➤ [Web Development](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
-
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
 <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
 

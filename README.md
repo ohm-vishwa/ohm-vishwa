@@ -25,7 +25,8 @@
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
 ## Computer Science Resources 
-**`Request for access and DM me on instagram`** ==}> [ohm_vishwa](https://instagram.com/ohm_vishwa)
+**`Request for access and DM me on instagram`** 
+==}> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 ### Premium Video Cources
 #### ᯓ➤ [DSA for Placament](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
 #### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)

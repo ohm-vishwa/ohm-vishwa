@@ -30,7 +30,7 @@
 > If you need any guidance or technical support in computer science, feel free to reach out.
 > Connect with me on Instagram for direct help. 
 
-**`Request for access and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
+**`Request for access and DM me on instagram with your email id`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 
 <img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">
 

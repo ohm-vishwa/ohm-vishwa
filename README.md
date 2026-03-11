@@ -7,7 +7,7 @@
 🐧 Arch Linux User & Linux System Developer \
 🛡️ Bug Bounty Hunter & Security Enthusiast \
 😇 My long term goal to be a CS **`teacher`** or **`mentor`**
- ## My Projetcs
+ ## My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles)

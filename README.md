@@ -28,7 +28,6 @@
 > [!NOTE]
 > All resources shared by me are 100% free for your personal use.
 > If you need any guidance or technical support in computer science, feel free to reach out.
-> Connect with me on Instagram for direct help. 
 
 **`Request for access and DM me on instagram with your email id`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 

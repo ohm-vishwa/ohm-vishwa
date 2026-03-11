@@ -27,7 +27,7 @@
 # Computer Science Resources 
 **`Request for access and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 
-### Google Sheet
+### Google Sheets
 #### ᯓ➤ [DSA for Placament](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
 ### Premium Video Cources
 #### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)

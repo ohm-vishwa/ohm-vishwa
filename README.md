@@ -24,7 +24,10 @@
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
+## Computer Science Resources 
+**`DM me on instagram to get access of my google Sheets`** ==}> [ohm_vishwa](https://instagram.com/ohm_vishwa)
 
+#### ᯓ➤ [Web Development](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
 
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
 <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->

@@ -26,6 +26,7 @@
 
 # Computer Science Resources 
 **`Request for access and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
+
 <img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">
 
 ### Google Sheets

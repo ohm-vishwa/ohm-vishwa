@@ -30,7 +30,7 @@
 <img src="Screenshot_11-Mar_12-09-29_19865.png" width="40% /">
 
 ### Google Sheets
-#### ᯓ➤ [DSA for Placament](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
+#### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
 ### Premium Video Cources
 #### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
 #### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)

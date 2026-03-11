@@ -25,7 +25,7 @@
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
 # Computer Science Resources 
-> [!Tip]
+> [!NOTE]
 > All resources shared by me are 100% free for your personal use.
 > If you need any guidance or technical support in computer science, feel free to reach out.
 > Connect with me on Instagram for direct help. 

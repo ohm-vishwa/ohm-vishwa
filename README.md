@@ -1,12 +1,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat">
 
-# Hey, i'm ohm
-
+# Hey, I'm Ohm
 👨‍💻 React Native Android Apps Developer \
 🐧 Arch Linux User & Linux System Developer \
 🛡️ Bug Bounty Hunter & Security Enthusiast \
-😇 My long term goal to be a CS **`teacher`** or **`mentor`**
+😇 My long-term goal is to be a CS teacher or mentor
+
  ## My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
@@ -16,7 +16,7 @@
  ## My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
-#### ᯓ➤ [Wifi Password Cracking](https://github.com/ohm-vishwa/Wifi-Password-Cracking)
+#### ᯓ➤ [Wi-fi Password Cracking](https://github.com/ohm-vishwa/Wifi-Password-Cracking)
 #### ᯓ➤ [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands)
 #### ᯓ➤ [Web Development](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet)
 #### ᯓ➤ [Common Utilities](https://github.com/ohm-vishwa/common-utilities)
@@ -35,7 +35,7 @@
 
 ### Google Sheets
 #### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
-### Premium Video Cources
+### Premium Video Courses
 #### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
 #### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
 #### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)

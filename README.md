@@ -8,7 +8,7 @@
 🛡️ Bug Bounty Hunter & Security Enthusiast \
 😇 My long term goal to be a CS **`teacher`** or **`mentor`**
  ## My Projetcs
-#### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app)
+<!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles)
 #### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)

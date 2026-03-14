@@ -4,8 +4,7 @@
 # Hey, I'm Ohm
 👨‍💻 React Native Android Apps Developer \
 🐧 Arch Linux User & Linux System Developer \
-🛡️ Bug Bounty Hunter & Security Enthusiast \
-😇 My long-term goal is to be a CS teacher or mentor
+🛡️ Bug Bounty Hunter & Security Enthusiast 
 
  ## My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->

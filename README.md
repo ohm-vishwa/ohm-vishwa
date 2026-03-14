@@ -54,7 +54,7 @@ Contact ==}> [ohm vishwa](https://instagram.com/ohm_vishwa)
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut" alt="ohm-vishwa" /> -->
 
-<!-_![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)-->
+<!--_![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)-->
 <!-- ![](https://leetcard.jacoblin.cool/ohm_kumar?border=2&radius=5) -->
 
 <!-- [![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)

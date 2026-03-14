@@ -29,10 +29,6 @@
 > All resources shared by me are 100% free for your personal use.
 > If you need any guidance or technical support in computer science, feel free to reach out.
 
-**`to get access, send access request and DM me on instagram`** >> [ohm_vishwa](https://instagram.com/ohm_vishwa)
-
-<img src="Screenshot_11-Mar_12-09-29_19865.png" width="50% /">
-
 ### Google Sheets
 #### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
 ### Premium Video Courses
@@ -40,6 +36,8 @@
 #### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
 #### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)
 #### ᯓ➤ [Web Development `Full Stack`](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
+
+Contact ==}> [ohm vishwa](https://instagram.com/ohm_vishwa)
 
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->
 <!-- - 🪟 [Windows Shell Commands](https://github.com/ohm-vishwa/Windows-Shell-Commands) -->
@@ -56,7 +54,7 @@
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohm-vishwa&layout=donut" alt="ohm-vishwa" /> -->
 
-<!--![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)-->
+<!-_![Leetcode Stats](https://leetcard.jacoblin.cool/ohm_kumar?ext=activity)-->
 <!-- ![](https://leetcard.jacoblin.cool/ohm_kumar?border=2&radius=5) -->
 
 <!-- [![Ohm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohm-vishwa&show_icons=true&theme=dracula)](https://github.com/ohm-vishwa/github-readme-stats)

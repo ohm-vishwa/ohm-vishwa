@@ -26,7 +26,7 @@
 # Computer Science Resources 
 > [!NOTE]
 > All resources shared by me are 100% free for your personal use.
-> If you need any guidance or technical support in computer science, feel free to reach out [ohm vishwa](https://instagram.com/ohm_vishwa)
+> If you need any guidance or technical support in computer science, feel free to reach out [ohm_vishwa](https://instagram.com/ohm_vishwa)
 
 ### Google Sheets
 #### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)

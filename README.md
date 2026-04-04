@@ -30,7 +30,7 @@
 
 ### Google Sheets
 #### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
-### Premium Video Courses
+### Video Lectures
 #### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
 #### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
 #### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)

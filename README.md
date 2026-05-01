@@ -28,6 +28,8 @@
 | Libraries | Description |
 | :--- | :--- | 
 |[react-native-mmkv](https://www.npmjs.com/package/react-native-mmkv)|The fastest key/value storage for React Native|
+|[react-native-maps](https://www.npmjs.com/package/react-native-maps)|React Native Mapview component for iOS + Android|
+|[lottie-react-native](https://www.npmjs.com/package/lottie-react-native)|Lottie renders After Effects animations in real time, allowing apps to use animations as easily as they use static images.|
 
 </details>
   

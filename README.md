@@ -14,13 +14,13 @@
 
 </details>
 
- ## My Projects
+ ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles)
 #### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
   
- ## My Notes
+ ## 📖 My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 #### ᯓ➤ [React Native](https://github.com/ohm-vishwa/ohm-notes-react-native)

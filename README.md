@@ -27,6 +27,7 @@
 
 | Libraries | Description |
 | :--- | :--- | 
+|[react-native-mmkv](https://www.npmjs.com/package/react-native-mmkv)|The fastest key/value storage for React Native|
 
 </details>
   

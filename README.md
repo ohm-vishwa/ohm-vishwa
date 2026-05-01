@@ -31,19 +31,23 @@
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
-# Computer Science Resources 
-
-### Google Sheets
-#### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
-### Video Lectures
-#### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
-#### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
-#### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)
-#### ᯓ➤ [Web Development `Full Stack`](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
+<Details>
+ <summary>Computer Science Resources </summary>
+ 
+#### Google Sheets
+##### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
+#### Video Lectures
+##### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
+##### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
+##### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)
+##### ᯓ➤ [Web Development `Full Stack`](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
 
 > [!NOTE]
 > All resources shared by me are 100% free for your personal use.
 > If you need any guidance or technical support in computer science, feel free to reach out [ohm-vishwa](https://instagram.com/ohm_vishwa)
+
+
+</Details>
 
 
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->

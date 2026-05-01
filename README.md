@@ -25,7 +25,7 @@
 <details>
 <summary>Libraries</summary>
 
-| Tools | Description |
+| Libraries | Description |
 | :--- | :--- | 
 
 </details>

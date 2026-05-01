@@ -5,8 +5,16 @@
 👨‍💻 React Native Android Apps Developer \
 🐧 Arch Linux User & Linux System Developer \
 🛡️ Bug Bounty Hunter & Security Enthusiast 
+
+ ## 🎓 My Projects
+<!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
+#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
+#### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles)
+#### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
+
+## 😇 My Favourite Tools & Libraries
 <details>
-<summary>App Developments Useful Tools</summary>
+<summary>Tools</summary>
 
 | Tools | Description |
 | :--- | :--- | 
@@ -14,11 +22,13 @@
 
 </details>
 
- ## 🎓 My Projects
-<!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
-#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
-#### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles)
-#### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project)
+<details>
+<summary>Libraries</summary>
+
+| Tools | Description |
+| :--- | :--- | 
+
+</details>
   
  ## 📖 My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->

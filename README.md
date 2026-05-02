@@ -19,6 +19,7 @@
 | Tools | Description |
 | :--- | :--- | 
 | [IconKitchen](https://icon.kitchen) | App Icon generator | 
+|[Figma](https://www.figma.com)|design platform for building meaningful products|
 
 </details>
 

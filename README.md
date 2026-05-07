@@ -22,7 +22,6 @@
 | [IconKitchen](https://icon.kitchen) | App Icon generator | 
 |[React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)|Generate Shadow Styling|
 |[Figma](https://www.figma.com)|app Desigining platform for building meaningful products|
-|[Expo Vector Icons](https://icons.expo.fyi/Index)|Built-in support for popular icon fonts|
 
 </details>
 
@@ -31,6 +30,7 @@
 
 | Libraries | Description |
 | :--- | :--- | 
+|[Expo Vector Icons](https://icons.expo.fyi/Index)|Built-in support for popular icon fonts|
 |[react-native-mmkv](https://www.npmjs.com/package/react-native-mmkv)|The fastest key/value storage for React Native|
 |[react-native-maps](https://www.npmjs.com/package/react-native-maps)|React Native Mapview component for iOS + Android|
 |[react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)|Create smooth animations with an excellent developer experience.|

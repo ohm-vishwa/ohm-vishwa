@@ -20,6 +20,7 @@
 | Tools | Description |
 | :--- | :--- | 
 | [IconKitchen](https://icon.kitchen) | App Icon generator | 
+|[React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)|Generate Shadow Styling|
 |[Figma](https://www.figma.com)|app Desigining platform for building meaningful products|
 
 </details>

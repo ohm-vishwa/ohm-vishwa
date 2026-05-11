@@ -8,6 +8,7 @@
 
  ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
+#### 🌱 [Quiz App](https://github.com/ohm-vishwa/Quiz-App)
 #### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh)
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app)
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles)

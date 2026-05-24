@@ -49,6 +49,7 @@ Terminal: kitty
 
  ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
+#### 🌱 [Camera App]()
 #### 🌱 [Quiz App](https://github.com/ohm-vishwa/Quiz-App) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Quiz-App?label=Last%20Updated)
 #### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/candy-cursh?label=Last%20Updated)
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/react-native-social-media-app?label=Last%20Updated)

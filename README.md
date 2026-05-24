@@ -1,5 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat">
+<img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-vishwa?label=Last%20Updated)
 
 # Hey, I'm Ohm
 👨‍💻 React Native Android Apps Developer \

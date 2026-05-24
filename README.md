@@ -1,7 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=React+Native+Developer;Linux+Power+User;Android+App+Builder;Bug+Hunter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Android+Developer;Arch+Linux+User;Bug+Hunter)](https://git.io/typing-svg)
 
 
 ```bash

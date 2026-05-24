@@ -1,6 +1,5 @@
 
-<img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-vishwa?label=Last%20Updated)
-
+<img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=React+Native+Developer;Linux+Power+User;Android+App+Builder;Bug+Hunter)](https://git.io/typing-svg)
 
 
@@ -190,11 +189,11 @@ Terminal: kitty
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/ohm-vishwa" target="_blank">
+<a href="https://www.linkedin.com/in/om-kumar01" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://youtube.com/@ohm-vishwa" target="_blank">
+<a href="https://instagram.com/ohm_vishwa" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 

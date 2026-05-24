@@ -8,9 +8,6 @@
 $ whoami
 ohm-vishwa
 
-$ skills
-React Native • Android • Linux • Firebase •  Expo
-
 $ current_status
 Building apps and breaking systems 😈
 

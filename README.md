@@ -1,16 +1,51 @@
 
 <img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-vishwa?label=Last%20Updated)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=React+Native+Developer;Linux+Power+User;Android+App+Builder;Bug+Hunter)](https://git.io/typing-svg)
+
+
 ```bash
 $ whoami
 ohm-vishwa
 
 $ skills
-React Native • Android • Linux • Firebase • Expo
+React Native • Android • Linux • Firebase •  Expo
 
 $ current_status
 Building apps and breaking systems 😈
+
+$ my_setup
+OS: Arch Linux  
+WM: Hyprland  
+Editor: VS Code  
+Shell: zsh  
+Terminal: kitty
 ```
+## 🤹🏻 My Skills
+[![Tech Stack](https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,supabase,mongodb,redux,git,github,linux,arch,bash,vscode,androidstudio,figma,postman,cpp,c,java,kotlin&theme=light)](https://skillicons.dev)
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-111111?style=for-the-badge)
+![John The Ripper](https://img.shields.io/badge/John_The_Ripper-darkred?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-2E8B57?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-222222?style=for-the-badge)
+![Dirbuster](https://img.shields.io/badge/Dirbuster-444444?style=for-the-badge)
+![Nikto](https://img.shields.io/badge/Nikto-006400?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-333333?style=for-the-badge)
+![Bettercap](https://img.shields.io/badge/Bettercap-8B4513?style=for-the-badge)
+![Maltego](https://img.shields.io/badge/Maltego-008B8B?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-FF0000?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-222222?style=for-the-badge)
+![Recon-ng](https://img.shields.io/badge/Recon--ng-004170?style=for-the-badge)
 
  ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
@@ -142,3 +177,25 @@ Building apps and breaking systems 😈
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ohm-vishwa/ohm-vishwa/output/github-contribution-grid-snake-dark.svg">
 </picture>
+
+
+## 🌐 Connect with me
+<p align="left">
+
+<a href="https://github.com/ohm-vishwa" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/ohm_vishwa" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ohm-vishwa" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://youtube.com/@ohm-vishwa" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</p>

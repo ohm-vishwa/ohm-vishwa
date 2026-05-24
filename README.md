@@ -5,13 +5,13 @@
 
 
 ```bash
-$whoami
+$ whoami
 ohm-vishwa
 
-$skills
+$ skills
 React Native • Android • Linux • Firebase •  Expo
 
-$current_status
+$ current_status
 Building apps and breaking systems 😈
 
 $ my_setup

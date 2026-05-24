@@ -1,10 +1,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-vishwa?label=Last%20Updated)
 
-# Hey, I'm Ohm
-👨‍💻 React Native Android Apps Developer \
-🐧 Arch Linux User & Linux System Developer \
-🛡️ Bug Bounty Hunter & Security Enthusiast 
+```bash
+$ whoami
+ohm-vishwa
+
+$ skills
+React Native • Android • Linux • Firebase • Expo
+
+$ current_status
+Building apps and breaking systems 😈
+```
 
  ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->

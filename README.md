@@ -49,12 +49,12 @@ Terminal: kitty
 
  ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
-#### 🌱 [Camera App](https://github.com/ohm-vishwa/Camera-App) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Camera-App?label=Last%20Updated)
-#### 🌱 [Quiz App](https://github.com/ohm-vishwa/Quiz-App) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Quiz-App?label=Last%20Updated)
-#### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/candy-cursh?label=Last%20Updated)
-#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/react-native-social-media-app?label=Last%20Updated)
-#### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-hyprland-dotfiles?label=Last%20Updated)
-#### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Cpp_Project?label=Last%20Updated)
+#### 🌱 [Camera App](https://github.com/ohm-vishwa/Camera-App) 
+#### 🌱 [Quiz App](https://github.com/ohm-vishwa/Quiz-App) 
+#### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh) 
+#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app) 
+#### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles) 
+#### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project) 
 
 ## 😇 My Favourite Tools & Libraries
 <details>

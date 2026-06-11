@@ -81,8 +81,8 @@ Terminal: kitty
  ## 📖 My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
-#### ᯓ➤ [Linux](https://github.com/ohm-vishwa/ohm-notes-linux) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-notes-linux?label=Last%20Updated)
 #### ᯓ➤ [React Native](https://github.com/ohm-vishwa/ohm-notes-react-native/tree/main/expo-cli) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-notes-react-native?label=Last%20Updated)
+#### ᯓ➤ [Linux](https://github.com/ohm-vishwa/ohm-notes-linux) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-notes-linux?label=Last%20Updated)
 #### ᯓ➤ [Javascript](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Web-Dev-Cheat-Sheet?label=Last%20Updated)
 #### ᯓ➤ [Wi-fi Password Cracking](https://github.com/ohm-vishwa/Wifi-Password-Cracking) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Wifi-Password-Cracking?label=Last%20Updated)
 #### ᯓ➤ [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Git-Github-Commands?label=Last%20Updated)

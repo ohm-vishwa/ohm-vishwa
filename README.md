@@ -102,7 +102,7 @@ Terminal: kitty
 ##### ᯓ➤ [Web Development `Full Stack`](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
 
 > All resources shared by me are 100% free for your personal use.
-> If you need any guidance or technical support in computer science, feel free to reach out [ohm-vishwa](https://instagram.com/ohm.vish)
+> If you need any guidance or technical support in computer science, feel free to reach out [ohm-vishwa](https://instagram.com/ohm_vishwa)
 
 
 </Details>

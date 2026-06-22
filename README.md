@@ -1,7 +1,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ohm-vishwa&style=flat"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F72D&width=435&lines=Android+Developer;Black+Arch+Linux+User;Bug+Hunter)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Hello+I+ohm;)](https://git.io/typing-svg) -->
 
 
 ```bash
@@ -9,7 +9,7 @@ $ whoami
 ohm-vishwa
 
 $ current_status
-Building apps and breaking systems 😈
+Building apps 
 
 $ my_setup
 OS: Arch Linux  
@@ -18,9 +18,10 @@ Editor: VS Code
 Shell: zsh  
 Terminal: kitty
 ```
-## 🤹🏻 My Skills
+## Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=react,ts,js,nodejs,firebase,supabase,mongodb,redux,git,github,linux,arch,bash,vscode,androidstudio,figma,postman,cpp,c,java,kotlin&theme=light)](https://skillicons.dev)
 
+## Cyber Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -46,15 +47,15 @@ Terminal: kitty
 
  ## 🎓 My Projects
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
-<!-- #### 🌱 [Camera App](https://github.com/ohm-vishwa/Camera-App) -->
-#### 🌱 [Chatting App](https://github.com/ohm-vishwa/real-time-chat-app)
+<!-- #### 🌱 [Camera App](https://github.com/ohm-vishwa/Camera-App) 
+#### 🌱 [Chatting App](https://github.com/ohm-vishwa/real-time-chat-app) -->
 #### 🌱 [Quiz App](https://github.com/ohm-vishwa/Quiz-App) 
 #### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh) 
 #### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app) 
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles) 
 #### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project) 
 
-## 😇 My Favourite Tools & Libraries
+## 😇 My Favourite Tools 
 <details>
 <summary>Tools</summary>
 
@@ -62,20 +63,6 @@ Terminal: kitty
 | :--- | :--- | 
 | [IconKitchen](https://icon.kitchen) | App Icon generator | 
 |[React Native Shadow Generator](https://ethercreative.github.io/react-native-shadow-generator/)|Generate Shadow Styling|
-|[Figma](https://www.figma.com)|app Desigining platform for building meaningful products|
-
-</details>
-
-<details>
-<summary>Libraries</summary>
-
-| Libraries | Description |
-| :--- | :--- | 
-|[Expo Vector Icons](https://icons.expo.fyi/Index)|Built-in support for popular icon fonts|
-|[react-native-mmkv](https://www.npmjs.com/package/react-native-mmkv)|The fastest key/value storage for React Native|
-|[react-native-maps](https://www.npmjs.com/package/react-native-maps)|React Native Mapview component for iOS + Android|
-|[react-native-reanimated](https://docs.swmansion.com/react-native-reanimated/)|Create smooth animations with an excellent developer experience.|
-|[lottie-react-native](https://www.npmjs.com/package/lottie-react-native)|Lottie renders After Effects animations in real time,<br> allowing apps to use animations as easily as they use static images.|
 
 </details>
   
@@ -84,29 +71,13 @@ Terminal: kitty
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 #### ᯓ➤ [React Native](https://github.com/ohm-vishwa/ohm-notes-react-native/tree/main/expo-cli) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-notes-react-native?label=Last%20Updated)
 #### ᯓ➤ [Linux](https://github.com/ohm-vishwa/ohm-notes-linux) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-notes-linux?label=Last%20Updated)
-#### ᯓ➤ [Javascript](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Web-Dev-Cheat-Sheet?label=Last%20Updated)
 #### ᯓ➤ [Wi-fi Password Cracking](https://github.com/ohm-vishwa/Wifi-Password-Cracking) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Wifi-Password-Cracking?label=Last%20Updated)
+<!--#### ᯓ➤ [Javascript](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Web-Dev-Cheat-Sheet?label=Last%20Updated) 
 #### ᯓ➤ [Git & Github Commands](https://github.com/ohm-vishwa/Git-Github-Commands) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/Git-Github-Commands?label=Last%20Updated)
 <!--https://github.com/user-attachments/assets/00407b89-6624-41f8-a171-5bc775e4e4bc -->
 <!-- https://github.com/user-attachments/assets/6c8a8de6-6676-4b1c-9bd3-a2073bf60e0a -->
 <!-- https://github.com/user-attachments/assets/7d185907-f945-45a8-9e78-ea27e903e7f4 -->
 
-<Details>
- <summary>Computer Science Resources </summary>
- 
-#### Google Sheets
-##### ᯓ➤ [DSA for Placement](https://docs.google.com/spreadsheets/d/13pdQ0VnnCbqB5lKsBl_Yd3FizkKkRGu_/edit?usp=sharing&ouid=108862007287347020842&rtpof=true&sd=true)
-#### Video Lectures
-##### ᯓ➤ [Low Level Design](https://docs.google.com/spreadsheets/d/1_HVMRrbpEVnZTPyXrsU2DHR2_7RATacuylFYXsFlPGQ/edit?usp=sharing)
-##### ᯓ➤ [GATE CSE](https://docs.google.com/spreadsheets/d/1OzmP2shYPQaJ1bDlLiVUlV-uiVWmacKFa6UybbR8558/edit?usp=sharing)
-##### ᯓ➤ [GATE CSE PYQ's](https://docs.google.com/spreadsheets/d/1gEWW2gg31OvTeERQ-hqt8c2jUHqimrEuHvpnQ5fzpVc/edit?usp=sharing)
-##### ᯓ➤ [Web Development `Full Stack`](https://docs.google.com/spreadsheets/d/1qbuxtgubOvllTOMT8E20pLUZf2qdIl3X_OdKFReFVts/edit?usp=sharing)
-
-> All resources shared by me are 100% free for your personal use.
-> If you need any guidance or technical support in computer science, feel free to reach out [ohm-vishwa](https://instagram.com/ohm_vishwa)
-
-
-</Details>
 
 
 <!-- - 📃 [DSA C++ Cheat Sheet](https://github.com/ohm-vishwa/DSA-Cpp?tab=readme-ov-file#dsa-c)-->

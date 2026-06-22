@@ -55,7 +55,7 @@ Terminal: kitty
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles) 
 #### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project) 
 
-## 😇 My Favourite Tools 
+## My Favourite Tools 
 <details>
 <summary>Tools</summary>
 
@@ -66,7 +66,7 @@ Terminal: kitty
 
 </details>
   
- ## 📖 My Notes
+ ## My Notes
 <!-- #### ==}> 🐧 [Linux Setup Commands](https://github.com/ohm-vishwa/Linux-Comands) -->
 <!--#### 📃 [Resources](https://github.com/ohm-vishwa/learn-from-error-res) -->
 #### ᯓ➤ [React Native](https://github.com/ohm-vishwa/ohm-notes-react-native/tree/main/expo-cli) ![Last Commit](https://img.shields.io/github/last-commit/ohm-vishwa/ohm-notes-react-native?label=Last%20Updated)

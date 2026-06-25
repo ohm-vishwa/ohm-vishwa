@@ -150,7 +150,7 @@ Terminal: kitty
 </picture>
 
 
-## 🌐 Connect with me
+<!--## 🌐 Connect with me
 <p align="left">
 
 <a href="https://github.com/ohm-vishwa" target="_blank">
@@ -169,4 +169,4 @@ Terminal: kitty
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
-</p>
+</p> -->

@@ -55,6 +55,8 @@ Terminal: kitty
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles) 
 #### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project) 
 
+![](https://leetcard.jacoblin.cool/ohm_kumar?ext=contest)
+
 ## My Favourite Tools 
 <details>
 <summary>Tools</summary>

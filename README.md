@@ -49,11 +49,12 @@ Terminal: kitty
 <!-- #### 🌱 [Real Chat App `inspired by Whatsapp`](https://github.com/ohm-vishwa/react-native-real-chat-app) -->
 <!-- #### 🌱 [Camera App](https://github.com/ohm-vishwa/Camera-App) 
 #### 🌱 [Chatting App](https://github.com/ohm-vishwa/real-time-chat-app) -->
-#### 🌱 [Quiz App](https://github.com/ohm-vishwa/Quiz-App) 
-#### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh) 
-#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app) 
+#### 🌱 [Resume Analyzer](https://github.com/ohm-vishwa/Full-Stack-Gen-AI-resume-analyzer) 
+#### 🌱 [Backend Ledger](https://github.com/ohm-vishwa/node-ledger) 
 #### 🌱 [Arch Linux Hyprland Project](https://github.com/ohm-vishwa/ohm-hyprland-dotfiles) 
 #### 🌱 [C++ Terminal Game](https://github.com/ohm-vishwa/Cpp_Project) 
+#### 🌱 [Candy Crush](https://github.com/ohm-vishwa/candy-cursh) 
+#### 🌱 [Social Media App `inspired by Instagram`](https://github.com/ohm-vishwa/react-native-social-media-app) 
 
 <!--![](https://leetcard.jacoblin.cool/ohm_kumar?ext=contest)-->
 

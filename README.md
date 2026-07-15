@@ -9,7 +9,7 @@ $ whoami
 ohm-vishwa
 
 $ current_status
-Building apps 
+Linux Adim
 
 $ my_setup
 OS: Arch Linux  

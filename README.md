@@ -9,7 +9,7 @@ $ whoami
 ohm-vishwa
 
 $ current_status
-Linux Adim
+Full Stack Mobile Developer
 
 $ my_setup
 OS: Arch Linux  
